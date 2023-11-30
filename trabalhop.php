@@ -28,7 +28,7 @@
 <body>
     <h1>PHP</h1>
     <h2>Exemplo 3</h2>
-    <h3>Usuário comum</h3>
+    <h3>Página Inicial</h3>
     <form action="trabalho1.php" method="POST">
         <label for="nome">Nome:</label>
         <input id="nome"type="text" name="nome" > <br>

@@ -14,8 +14,6 @@
     
     if($nome == "duda" and $senha =="123"){
        header("Location:" ."trabalhorestri.php");
-    }elseif($nome=="debora" and $senha=="124"){
-     header("Location:" ."trabalhorestri.php");
     }elseif($nome=="bernardo" and $senha=="125"){
     header("Location:" ."trabalhoin.php");
     }else
